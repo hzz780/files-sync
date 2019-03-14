@@ -1,5 +1,7 @@
 # files-sync from baidu-invoke-sync
 
+## NPM LINK 先了解一下
+
 源码开发同步工具，将源代码同步到业务内
 
 ## Getting Start
